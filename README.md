@@ -3,9 +3,16 @@
 <a href="https://jcs-emacs.github.io/"><img align="right" src="https://raw.githubusercontent.com/jcs-emacs/badges/master/others/built-with/dark.svg" alt="Built with"></a>
 
 # helafy
-> 
+> Minify/Uglify/Prettify contents
 
 [![CI](https://github.com/jcs-elpa/helafy/actions/workflows/test.yml/badge.svg)](https://github.com/jcs-elpa/helafy/actions/workflows/test.yml)
+
+## 🔨 Usage
+
+There are two functions/commands you can use.
+
+* `helafy-pretty`
+* `helafy-ugly`
 
 ## Contribute
 

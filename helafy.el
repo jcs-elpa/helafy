@@ -80,7 +80,7 @@
       (user-error "[WARNING] No prettify command in this context"))))
 
 (defun helafy-ugly-default (start end)
-  ""
+  "Default ugly function from START to END."
   (delete-whitespace-rectangle start end)
   (goto-char start)
   (while (search-forward "\n" nil t) (replace-match "" nil t)))

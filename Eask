@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "helafy"
          "0.1.0"
          "Minify/Uglify/Prettify contents")
